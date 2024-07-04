@@ -1,0 +1,1 @@
+Crea 10 registros y 3 columnas con datos de un csv con datos de edad altura e ingresos
